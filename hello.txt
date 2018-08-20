@@ -102,4 +102,4 @@ void Serch(MOB*arr1, int numarr) {
 	}
 	system("pause");
 	system("cls");
-}
+} 
